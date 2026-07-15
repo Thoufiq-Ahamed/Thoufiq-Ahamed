@@ -6,7 +6,7 @@ Full Stack Developer
 
 I've been working as a Full Stack Developer for 5 Years in total - 3 Years in India and 2 years in Abu Dhabi - UAE.
 
-* 🌍  I'm based in Abu Dhabi
+* 🌍  I'm based in Dubai
 * ✉️  You can contact me at [thoufiqgulf@gmail.com](mailto:thoufiqgulf@gmail.com)
 * 🚀  I'm currently working on [Enterprise Systems Analysis Technology](http://esat.ae)
 * 🧠  I'm currently learning New Languages and tools which align for the project requirements.
